@@ -1,0 +1,12 @@
+#Practicing IF Statements and Try/Except Structures
+score = 12
+
+if score < 12 :
+    print('not enough')
+elif score > 12 :
+    print('too much')
+else :
+    print('good job')
+
+# 2nd test
+answer = input('whats the answer to the universe?')

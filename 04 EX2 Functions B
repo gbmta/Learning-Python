@@ -1,0 +1,8 @@
+# max & min
+biggest_number = max('19783')
+print(biggest_number)
+
+smallest = min('95205')
+print(smallest)
+
+

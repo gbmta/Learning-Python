@@ -1,0 +1,5 @@
+def thing() : 
+    print ('I said wassup dude')
+    print('and he said not much!')
+
+    thing

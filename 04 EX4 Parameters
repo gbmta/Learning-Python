@@ -1,0 +1,7 @@
+#Adding two numbers together
+
+def add_together(a, b) :
+    sum = a + b
+    return sum
+
+print(add_together(2, 10593))

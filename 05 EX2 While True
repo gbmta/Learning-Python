@@ -1,0 +1,9 @@
+# You want a line that takes your input like this > and once you put in the phrase that its looking for you print done
+
+while True :
+    line = input('>' )
+    if line == 'done':
+        break
+    print(line)
+
+print('Done!')
